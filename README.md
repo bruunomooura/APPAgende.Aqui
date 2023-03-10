@@ -1,4 +1,4 @@
-# APP-Agende.Aqui
+# APPAgende.Aqui
 
 Ideia central:
 App para gestão de agendamento para profissionais que atuem com atendimento por hora marcada.
